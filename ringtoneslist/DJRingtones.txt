@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "DJRingtones_001",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb1.mp3"
+    },
+	{
+        "id": 2,
+        "name": "DJRingtones_002",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb2.mp3"
+    },
+	{
+        "id": 3,
+        "name": "DJRingtones_003",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb3.mp3"
+    },
+	{
+        "id": 4,
+        "name": "DJRingtones_004",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb4.mp3"
+    },
+	{
+        "id": 5,
+        "name": "DJRingtones_005",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb5.mp3"
+    }
+	,
+	{
+        "id": 6,
+        "name": "DJRingtones_006",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb6.mp3"
+    },
+	{
+        "id": 7,
+        "name": "DJRingtones_007",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb7.mp3"
+    },
+	{
+        "id": 8,
+        "name": "DJRingtones_008",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb8.mp3"
+    },
+	{
+        "id": 9,
+        "name": "DJRingtones_009",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb9.mp3"
+    },
+	{
+        "id": 10,
+        "name": "DJRingtones_010",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb10.mp3"
+    },
+	{
+        "id": 11,
+        "name": "DJRingtones_011",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb11.mp3"
+    },
+	{
+        "id": 12,
+        "name": "DJRingtones_012",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb12.mp3"
+    },
+	{
+        "id": 13,
+        "name": "DJRingtones_013",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb13.mp3"
+    }
+	,
+	{
+        "id": 14,
+        "name": "DJRingtones_014",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb14.mp3"
+    },
+	{
+        "id": 15,
+        "name": "DJRingtones_015",
+        "songUrl":"https://raw.githubusercontent.com/804447885/ringtones/master/DJRingtones/sb15.mp3"
+    }
+]
