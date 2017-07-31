@@ -18,7 +18,7 @@
         "name": "Alternative",
         "bgUrl": "",
         "imgUrl": "",
-        "contentUrl": ""
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/alternative.txt"
     },
     {
         "id": "0004",

@@ -5,6 +5,6 @@
         "pkgName":"eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer",
         "url": "https://play.google.com/store/apps/details?id=eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer",
         "des": "Powerful EQ Bass Booster",
-        "imgUrl": ""
+        "imgUrl": "https://github.com/804447885/ringtones/raw/master/Kaka%20Ringtones/apps/soundbar.png"
     }
 ]
