@@ -1,0 +1,98 @@
+[
+    {
+        "id": "0001",
+        "name": "NEW",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0002",
+        "name": "HOT",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0003",
+        "name": "Abstract",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0004",
+        "name": "Adult",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0005",
+        "name": "Animals",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0006",
+        "name": "Art",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0007",
+        "name": "Cars",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0008",
+        "name": "Food Drink",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0009",
+        "name": "Games",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0010",
+        "name": "Movies",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0011",
+        "name": "Music",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0012",
+        "name": "Nature",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0013",
+        "name": "Photos",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0014",
+        "name": "Places",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0015",
+        "name": "Quotes",
+        "imgUrl": "",
+        "contentUrl": ""
+    },
+    {
+        "id": "0016",
+        "name": "Sports",
+        "imgUrl": "",
+        "contentUrl": ""
+    }
+]
