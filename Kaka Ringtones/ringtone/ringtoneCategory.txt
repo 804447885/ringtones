@@ -1,195 +1,181 @@
 [
     {
         "id": "0001",
-        "name": "NEW",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
-    },
-    {
-        "id": "0002",
-        "name": "HOT",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
-    },
-    {
-        "id": "0003",
         "name": "Alternative",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/alternative.txt"
     },
     {
-        "id": "0004",
+        "id": "0002",
         "name": "Blues",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0005",
+        "id": "0003",
         "name": "Bollywood",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0006",
+        "id": "0004",
         "name": "Children",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0007",
+        "id": "0005",
         "name": "Christian Gospel",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0008",
+        "id": "0006",
         "name": "Classical",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0009",
+        "id": "0007",
         "name": "Comedy",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0010",
+        "id": "0008",
         "name": "Contact Ringtones",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0011",
+        "id": "0009",
         "name": "Country",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0012",
+        "id": "0010",
         "name": "Dance",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0013",
+        "id": "0011",
         "name": "Electronica",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0014",
+        "id": "0012",
         "name": "Entertainment",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0015",
+        "id": "0013",
         "name": "Games",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0016",
+        "id": "0014",
         "name": "Hip Hop",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0017",
+        "id": "0015",
         "name": "Holiday",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0018",
+        "id": "0016",
         "name": "Jazz",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0019",
+        "id": "0017",
         "name": "Latin",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0020",
+        "id": "0018",
         "name": "Message Tones",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0021",
+        "id": "0019",
         "name": "News Politics",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0022",
+        "id": "0020",
         "name": "Pets Animals",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0023",
+        "id": "0021",
         "name": "Pop",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0024",
+        "id": "0022",
         "name": "Reggae",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0025",
+        "id": "0023",
         "name": "Rock",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0026",
+        "id": "0024",
         "name": "Sayings",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0027",
+        "id": "0025",
         "name": "Sound Effects",
         "bgUrl": "",
         "imgUrl": "",
         "contentUrl": ""
     },
     {
-        "id": "0028",
+        "id": "0026",
         "name": "World",
         "bgUrl": "",
         "imgUrl": "",
