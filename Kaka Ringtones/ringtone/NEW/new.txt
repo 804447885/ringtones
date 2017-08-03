@@ -2,61 +2,61 @@
     {
         "id": "0001",
         "name": "Angel By The Wings",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Angel%20By%20The%20Wings.mp3",
         "duration": "00:41"
     },
     {
         "id": "0002",
         "name": "BACK FROM THE DEAD",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/BACK%20FROM%20THE%20DEAD.mp3",
         "duration": "00:34"
     },
     {
         "id": "0003",
         "name": "Bad and Boujee",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Bad%20and%20Boujee.mp3",
         "duration": "00:35"
     },
     {
         "id": "0004",
         "name": "Bad Things",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Bad%20Things.mp3",
         "duration": "00:40"
     },
     {
         "id": "0005",
         "name": "Bingo",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Bingo.mp3",
         "duration": "00:41"
     },
     {
         "id": "0006",
         "name": "City Of Stars",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/City%20Of%20Stars.mp3",
         "duration": "00:39"
     },
     {
         "id": "0007",
         "name": "Coldest Winter",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Coldest%20Winter.mp3",
         "duration": "00:28"
     },
     {
         "id": "0008",
         "name": "Deja vu",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Deja%20vu.mp3",
         "duration": "00:37"
     },
     {
         "id": "0009",
         "name": "Despacito",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Despacito.mp3",
         "duration": "00:32"
     },
     {
         "id": "0010",
         "name": "Diabla",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/Diabla.mp3",
         "duration": "00:35"
     }
 ]
