@@ -1,8 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
+        "name": "Angel By The Wings",
         "url": "",
-        "duration": ""
+        "duration": "00:41"
+    },
+    {
+        "id": "0002",
+        "name": "BACK FROM THE DEAD",
+        "url": "",
+        "duration": "00:34"
+    },
+    {
+        "id": "0003",
+        "name": "Bad and Boujee",
+        "url": "",
+        "duration": "00:35"
+    },
+    {
+        "id": "0004",
+        "name": "Bad Things",
+        "url": "",
+        "duration": "00:40"
+    },
+    {
+        "id": "0005",
+        "name": "Bingo",
+        "url": "",
+        "duration": "00:41"
+    },
+    {
+        "id": "0006",
+        "name": "City Of Stars",
+        "url": "",
+        "duration": "00:39"
+    },
+    {
+        "id": "0007",
+        "name": "Coldest Winter",
+        "url": "",
+        "duration": "00:28"
+    },
+    {
+        "id": "0008",
+        "name": "Deja vu",
+        "url": "",
+        "duration": "00:37"
+    },
+    {
+        "id": "0009",
+        "name": "Despacito",
+        "url": "",
+        "duration": "00:32"
+    },
+    {
+        "id": "0010",
+        "name": "Diabla",
+        "url": "",
+        "duration": "00:35"
     }
 ]
