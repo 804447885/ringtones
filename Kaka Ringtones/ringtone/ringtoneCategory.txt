@@ -2,8 +2,8 @@
     {
         "id": "0001",
         "name": "Alternative",
-        "bgUrl": "",
-        "imgUrl": "",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail-big.jpg",
         "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/alternative.txt"
     },
     {
