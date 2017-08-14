@@ -9,8 +9,8 @@
     {
         "id": "0002",
         "name": "Blues",
-        "bgUrl": "",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail.png",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/thumbnail-big.png",
         "contentUrl": ""
     },
     {
