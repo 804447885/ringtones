@@ -1,8 +1,50 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "urlWide": "",
-        "urlFixed": ""
+        "name": "Albert Einstein",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Albert%20Einstein-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Albert%20Einstein.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Anything",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Anything-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Anything.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Art Re Paren Indeec Golovnoy -large",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Art%20Re%20Paren%20Indeec%20Golovnoy%20-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Art%20Re%20Paren%20Indeec%20Golovnoy.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Breathe!",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Breathe!-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Breathe!.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "dont pull me",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/dont%20pull%20me-large.png",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/dont%20pull%20me.png"
+    },
+    {
+        "id": "0006",
+        "name": "Einstein",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Einstein-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Einstein.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Mathematics",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Mathematics-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/Mathematics.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "True Love",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/True%20Love-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/True%20Love.jpg"
     }
 ]

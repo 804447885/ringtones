@@ -1,8 +1,50 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "urlWide": "",
+        "name": "Black",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Black-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Black.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Guitar",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Guitar-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Guitar.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Guitar-Black",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Guitar-Black-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Guitar-Black.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Machete Kills Lady Gaga",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Machete%20Kills%20Lady%20Gaga-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Machete%20Kills%20Lady%20Gaga.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Music Party",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Music%20Party-large.jpg",
         "urlFixed": ""
+    },
+    {
+        "id": "0006",
+        "name": "Music",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Music-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Music.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Old Piano",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Old%20Piano-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Old%20Piano.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Record",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Record-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/Record.jpg"
     }
 ]
