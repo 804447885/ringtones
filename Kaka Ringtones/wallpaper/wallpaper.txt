@@ -2,12 +2,12 @@
     {
         "id": "0001",
         "name": "Abstract",
-        "imgUrl": "",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Abstract/logo.png",
         "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Abstract/abstract.txt"
     },
     {
         "id": "0002",
-        "name": "Adult",
+        "name": "Sexy Girl",
         "imgUrl": "",
         "contentUrl": ""
     },
