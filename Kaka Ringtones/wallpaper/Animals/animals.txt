@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Animal Lion",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Animal%20Lion-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Animal%20Lion.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Ben Torode Kitten",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Ben%20Torode%20Kitten-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Ben%20Torode%20Kitten.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Blue Bird",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Blue%20Bird-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Blue%20Bird.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Cute Raccoon",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Cute%20Raccoon-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Cute%20Raccoon.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Green Eyes",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Green%20Eyes-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Green%20Eyes.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Lovely Japanese White Eye Bird",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Lovely%20Japanese%20White%20Eye%20Bird-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Lovely%20Japanese%20White%20Eye%20Bird.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Tiger Fire",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Tiger%20Fire-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/Tiger%20Fire.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "White Leopard",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/White%20Leopard-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/White%20Leopard.jpg"
+    }
+]

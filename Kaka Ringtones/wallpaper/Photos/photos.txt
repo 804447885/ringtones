@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Bells Bow",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Bells%20Bow-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Bells%20Bow.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Black Bridges",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Black%20Bridges-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Black%20Bridges.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Chain Link Fence",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Chain%20Link%20Fence-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Chain%20Link%20Fence.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Freedom Beach",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Freedom%20Beach-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Freedom%20Beach.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Smiling Baby",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Smiling%20Baby-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Smiling%20Baby.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "The Leaves In The Hand",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/The%20Leaves%20In%20The%20Hand-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/The%20Leaves%20In%20The%20Hand.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Wood Wooden Design Sculpture",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Wood%20Wooden%20Design%20Sculpture%20-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Wood%20Wooden%20Design%20Sculpture.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Wooden",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Wooden-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/Wooden.jpg"
+    }
+]

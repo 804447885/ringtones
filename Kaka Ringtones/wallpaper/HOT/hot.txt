@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Bridges",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Bridges-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Bridges.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Cityscapes",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Cityscapes-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Cityscapes.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Eiffel Tower Paris",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Eiffel%20Tower%20Paris-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Eiffel%20Tower%20Paris.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Eyes Steampunk",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Eyes%20Steampunk-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Eyes%20Steampunk.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Pixar",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Pixar-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Pixar.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Smoking Astronauts",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Smoking%20Astronauts-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Smoking%20Astronauts.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "The Joker",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/The%20Joker-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/The%20Joker.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Water Nature",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Water%20Nature-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/Water%20Nature.jpg"
+    }
+]

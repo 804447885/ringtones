@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "A Nice Glass Of Chardonnay",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/A%20Nice%20Glass%20Of%20Chardonnay-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/A%20Nice%20Glass%20Of%20Chardonnay.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Apple",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Apple-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Apple.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Bananas",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Bananas-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Bananas.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Cocktail",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Cocktail-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Cocktail.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Fruits Limes Water",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Fruits%20Limes%20Water-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Fruits%20Limes%20Water.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Oranges Fruit Many",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Oranges%20Fruit%20Many-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Oranges%20Fruit%20Many.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Pink Heart Cake",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Pink%20Heart%20Cake-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Pink%20Heart%20Cake.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Pumpkins Orange",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Pumpkins%20Orange-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/Pumpkins%20Orange.jpg"
+    }
+]

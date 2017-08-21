@@ -1,0 +1,86 @@
+[
+    {
+        "id": "0001",
+        "name": "Abstract",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Abstract/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Abstract/abstract.txt"
+    },
+    {
+        "id": "0002",
+        "name": "Sexy Girl",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Adult/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Adult/adult.txt"
+    },
+    {
+        "id": "0003",
+        "name": "Animals",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Animals/animals.txt"
+    },
+    {
+        "id": "0004",
+        "name": "Art",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Art/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Art/art.txt"
+    },
+    {
+        "id": "0005",
+        "name": "Cars",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Cars/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Cars/cars.txt"
+    },
+    {
+        "id": "0006",
+        "name": "Food Drink",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Food%20Drink/fooddrink.txt"
+    },
+    {
+        "id": "0007",
+        "name": "Games",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/games.txt"
+    },
+    {
+        "id": "0008",
+        "name": "Movies",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Movies/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Movies/movies.txt"
+    },
+    {
+        "id": "0009",
+        "name": "Music",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Music/music.txt"
+    },
+    {
+        "id": "0010",
+        "name": "Nature",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/nature.txt"
+    },
+    {
+        "id": "0011",
+        "name": "Photos",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Photos/photos.txt"
+    },
+    {
+        "id": "0012",
+        "name": "Places",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/places.txt"
+    },
+    {
+        "id": "0013",
+        "name": "Quotes",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Quotes/quotes.txt"
+    },
+    {
+        "id": "0014",
+        "name": "Sports",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Sports/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Sports/sports.txt"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "id": "0001",
+        "name": "Alternative",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/alternative.txt"
+    },
+    {
+        "id": "0002",
+        "name": "Blues",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/blues.txt"
+    },
+    {
+        "id": "0003",
+        "name": "Bollywood",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Bollywood/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Bollywood/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Bollywood/bollywood.txt"
+    },
+    {
+        "id": "0004",
+        "name": "Children",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Children/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Children/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Children/children.txt"
+    },
+    {
+        "id": "0005",
+        "name": "Christian Gospel",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Christian%20Gospel/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Christian%20Gospel/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Christian%20Gospel/christian.txt"
+    },
+    {
+        "id": "0006",
+        "name": "Classical",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/classical.txt"
+    },
+    {
+        "id": "0007",
+        "name": "Comedy",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Comedy/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Comedy/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Comedy/comedy.txt"
+    },
+    {
+        "id": "0008",
+        "name": "Contact Ringtones",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/contact.txt"
+    },
+    {
+        "id": "0009",
+        "name": "Country",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/country.txt"
+    },
+    {
+        "id": "0010",
+        "name": "Dance",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Dance/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Dance/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Dance/dance.txt"
+    },
+    {
+        "id": "0011",
+        "name": "Electronica",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/electronica.txt"
+    },
+    {
+        "id": "0012",
+        "name": "Entertainment",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Entertainment/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Entertainment/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Entertainment/entertainment.txt"
+    },
+    {
+        "id": "0013",
+        "name": "Games",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Games/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Games/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Games/games.txt"
+    },
+    {
+        "id": "0014",
+        "name": "Hip Hop",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/hiphop.txt"
+    },
+    {
+        "id": "0015",
+        "name": "Holiday",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Holiday/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Holiday/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Holiday/holiday.txt"
+    },
+    {
+        "id": "0016",
+        "name": "Jazz",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/jazz.txt"
+    },
+    {
+        "id": "0017",
+        "name": "Latin",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/latin.txt"
+    },
+    {
+        "id": "0018",
+        "name": "Message Tones",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Message%20Tones/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Message%20Tones/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Message%20Tones/message.txt"
+    },
+    {
+        "id": "0019",
+        "name": "News Politics",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/News%20Politics/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/News%20Politics/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/News%20Politics/newpolitics.txt"
+    },
+    {
+        "id": "0020",
+        "name": "Pets Animals",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pets%20Animals/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pets%20Animals/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pets%20Animals/pets.txt"
+    },
+    {
+        "id": "0021",
+        "name": "Pop",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/pop.txt"
+    },
+    {
+        "id": "0022",
+        "name": "Reggae",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Reggae/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Reggae/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Reggae/reggae.txt"
+    },
+    {
+        "id": "0023",
+        "name": "Rock",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Rock/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Rock/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Rock/rock.txt"
+    },
+    {
+        "id": "0024",
+        "name": "Sayings",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/sayings.txt"
+    },
+    {
+        "id": "0025",
+        "name": "Sound Effects",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/soundeffects.txt"
+    },
+    {
+        "id": "0026",
+        "name": "World",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/World/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/World/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/World/world.txt"
+    }
+]

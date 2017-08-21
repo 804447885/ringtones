@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Billiards",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Billiards-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Billiards.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Bulletstorm",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Bulletstorm-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Bulletstorm.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Call Of Duty Black Ops 3 ",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Call%20Of%20Duty%20Black%20Ops%203-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Call%20Of%20Duty%20Black%20Ops%203%20.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Is In The Game",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Is%20In%20The%20Game-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Is%20In%20The%20Game.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Monster And Dragon",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Monster%20And%20Dragon-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Monster%20And%20Dragon.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Tomb Raider Lara Croft 2013",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Tomb%20Raider%20Lara%20Croft%202013-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Tomb%20Raider%20Lara%20Croft%202013.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Watch Dogs PS4 Game",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Watch%20Dogs%20PS4%20Game-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Watch%20Dogs%20PS4%20Game.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Winter Knight",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Winter%20Knight-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Games/Winter%20Knight.jpg"
+    }
+]

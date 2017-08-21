@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0001",
+        "name": "All of me",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/All%20of%20me.mp3",
+        "duration": "00:27"
+    },
+    {
+        "id": "0002",
+        "name": "Cancer Vshare Ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/Cancer%20Vshare%20Ringtone.mp3",
+        "duration": "00:41"
+    },
+    {
+        "id": "0003",
+        "name": "cheap thrills ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/cheap%20thrills%20ringtone.mp3",
+        "duration": "00:31"
+    },
+    {
+        "id": "0004",
+        "name": "God Only Knows (The Voice 2015 Finale)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/God%20Only%20Knows%20(The%20Voice%202015%20Finale).mp3",
+        "duration": "00:29"
+    },
+    {
+        "id": "0005",
+        "name": "Great is Thy Faithfulness (The Voice Performance)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/Great%20is%20Thy%20Faithfulness%20(The%20Voice%20Performance).mp3",
+        "duration": "00:38"
+    },
+    {
+        "id": "0006",
+        "name": "Hotline Bling (The Voice Performance)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/Hotline%20Bling%20(The%20Voice%20Performance).mp3",
+        "duration": "00:30"
+    },
+    {
+        "id": "0007",
+        "name": "I Took a Pill in Ibiza Ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/I%20Took%20a%20Pill%20in%20Ibiza%20Ringtone.mp3",
+        "duration": "00:39"
+    },
+    {
+        "id": "0008",
+        "name": "I'd Love to Lay You Down (The Voice 2015 Performance)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/I'd%20Love%20to%20Lay%20You%20Down%20(The%20Voice%202015%20Performance).mp3",
+        "duration": "00:36"
+    },
+    {
+        "id": "0009",
+        "name": "Mary, Did You Know (The Voice 2015 Finale)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/Mary%2C%20Did%20You%20Know%20(The%20Voice%202015%20Finale).mp3",
+        "duration": "00:41"
+    },
+    {
+        "id": "0010",
+        "name": "True Colors",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Blues/True%20Colors.mp3",
+        "duration": "00:36"
+    }
+]
