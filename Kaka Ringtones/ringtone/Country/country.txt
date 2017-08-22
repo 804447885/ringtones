@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "Adventure Of A Lifetime",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Adventure%20Of%20A%20Lifetime.mp3",
+        "duration": "00:38"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "Bad blood",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Bad%20blood.mp3",
+        "duration": "00:22"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Burning House (The Voice 2015 Finale)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Burning%20House%20(The%20Voice%202015%20Finale).mp3",
+        "duration": "00:33"
     },
     {
         "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
+        "name": "Country Nation",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Country%20Nation.mp3",
+        "duration": "00:34"
     },
     {
         "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
-    },
-    {
-        "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
-    },
-    {
-        "id": "0008",
-        "name": "",
-        "url": "",
+        "name": "End Of The Day",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/End%20Of%20The%20Day.mp3",
         "duration": "00:37"
     },
     {
+        "id": "0006",
+        "name": "Huntin Fishin and Lovin Every Day",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Huntin'%2C%20Fishin'%20and%20Lovin'%20Every%20Day.mp3",
+        "duration": "00:26"
+    },
+    {
+        "id": "0007",
+        "name": "Renegade Runaway",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Renegade%20Runaway.mp3",
+        "duration": "00:34"
+    },
+    {
+        "id": "0008",
+        "name": "So Long",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/So%20Long.mp3",
+        "duration": "00:33"
+    },
+    {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Strip It Down",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/Strip%20It%20Down.mp3",
+        "duration": "00:39"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "You Should Be Here",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Country/You%20Should%20Be%20Here.mp3",
+        "duration": "00:31"
     }
 ]

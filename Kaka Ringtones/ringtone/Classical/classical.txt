@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "apple ring",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/apple%20ring.mp3",
+        "duration": "00:13"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "be happy",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/be%20happy.mp3",
+        "duration": "00:13"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "fur elise dubstep",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/fur%20elise%20dubstep.mp3",
+        "duration": "00:29"
     },
     {
         "id": "0004",
-        "name": "",
-        "url": "",
+        "name": "godfather guitar",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/godfather%20guitar.mp3",
         "duration": "00:29"
     },
     {
         "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
+        "name": "love tone 2014",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/love%20tone%202014.mp3",
+        "duration": "00:27"
     },
     {
         "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
+        "name": "Old school-Ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/Old%20school-Ringtone.mp3",
+        "duration": "00:14"
     },
     {
         "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
+        "name": "Pokemon Gym",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/Pokemon%20Gym.mp3",
+        "duration": "00:31"
     },
     {
         "id": "0008",
-        "name": "",
-        "url": "",
-        "duration": "00:37"
+        "name": "True",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/True.mp3",
+        "duration": "00:30"
     },
     {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Wake Me up Before You Go-Go",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/Wake%20Me%20up%20Before%20You%20Go-Go.mp3",
+        "duration": "00:25"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "Wonderful world",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Classical/Wonderful%20world.mp3",
+        "duration": "00:29"
     }
 ]

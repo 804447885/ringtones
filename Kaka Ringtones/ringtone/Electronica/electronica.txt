@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "All Night",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/All%20Night.mp3",
+        "duration": "00:39"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "Believer",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Believer.mp3",
+        "duration": "00:31"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
-    },
-    {
-        "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
-    },
-    {
-        "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
-    },
-    {
-        "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
+        "name": "Flashlight",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Flashlight.mp3",
         "duration": "00:26"
     },
     {
+        "id": "0004",
+        "name": "Get Lucky",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Get%20Lucky.mp3",
+        "duration": "00:35"
+    },
+    {
+        "id": "0005",
+        "name": "Glitch-Hop and Dubstep Rap",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Glitch-Hop%20%26amp%3B%20Dubstep%20Rap.mp3",
+        "duration": "00:39"
+    },
+    {
+        "id": "0006",
+        "name": "Lean on",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Lean%20on.mp3",
+        "duration": "00:23"
+    },
+    {
+        "id": "0007",
+        "name": "Nyan Cat",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Nyan%20Cat.mp3",
+        "duration": "00:36"
+    },
+    {
         "id": "0008",
-        "name": "",
-        "url": "",
-        "duration": "00:37"
+        "name": "Ocean Drive",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Ocean%20Drive.mp3",
+        "duration": "00:34"
     },
     {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Pokemon GO Remix",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Pokemon%20GO%20Remix.mp3",
+        "duration": "00:39"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "Summer",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Electronica/Summer.mp3",
+        "duration": "00:34"
     }
 ]
