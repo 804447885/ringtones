@@ -1,5 +1,17 @@
 [
     {
+        "id": "1",
+        "name": "HOT",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/HOT/hot.txt"
+    },
+    {
+        "id": "2",
+        "name": "NEW",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/NEW/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/NEW/new.txt"
+    },
+    {
         "id": "0001",
         "name": "Abstract",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Abstract/logo.png",

@@ -1,5 +1,19 @@
 [
     {
+        "id": "1",
+        "name": "HOT",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/hot.txt"
+    },
+    {
+        "id": "2",
+        "name": "NEW",
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/thumbnail-big.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/NEW/new.txt"
+    },
+    {
         "id": "0001",
         "name": "Alternative",
         "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Alternative/thumbnail.png",
