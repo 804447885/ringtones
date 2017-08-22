@@ -1,8 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": ""
+        "name": "Evil",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Evil.mp3",
+        "duration": "00:38"
+    },
+    {
+        "id": "0002",
+        "name": "Get Lucky",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Get%20Lucky.mp3",
+        "duration": "00:35"
+    },
+    {
+        "id": "0003",
+        "name": "In Paris",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/In%20Paris.mp3",
+        "duration": "00:24"
+    },
+    {
+        "id": "0004",
+        "name": "Last Text",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Last%20Text.mp3",
+        "duration": "00:25"
+    },
+    {
+        "id": "0005",
+        "name": "Me Myself I",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Me%2C%20Myself%20%26amp%3B%20I.mp3",
+        "duration": "00:28"
+    },
+    {
+        "id": "0006",
+        "name": "Panda",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Panda.mp3",
+        "duration": "00:29"
+    },
+    {
+        "id": "0007",
+        "name": "reggae dubstep",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/reggae%20dubstep.mp3",
+        "duration": "00:29"
+    },
+    {
+        "id": "0008",
+        "name": "Safe Inside",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Safe%20Inside.mp3",
+        "duration": "00:35"
+    },
+    {
+        "id": "0009",
+        "name": "Summer",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Summer.mp3",
+        "duration": "00:34"
+    },
+    {
+        "id": "0010",
+        "name": "Traveling Light",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/HOT/Traveling%20Light.mp3",
+        "duration": "00:44"
     }
 ]

@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
-    },
-    {
-        "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
-    },
-    {
-        "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
-    },
-    {
-        "id": "0004",
-        "name": "",
-        "url": "",
+        "name": "All The Way Up ft. French Montana",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/All%20The%20Way%20Up%20ft.%20French%20Montana.mp3",
         "duration": "00:29"
     },
     {
+        "id": "0002",
+        "name": "Bad and Boujee",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/Bad%20and%20Boujee.mp3",
+        "duration": "00:35"
+    },
+    {
+        "id": "0003",
+        "name": "For Free",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/For%20Free.mp3",
+        "duration": "00:19"
+    },
+    {
+        "id": "0004",
+        "name": "Gold",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/Gold.mp3",
+        "duration": "00:24"
+    },
+    {
         "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
+        "name": "JuJu On Dat Beat",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/JuJu%20On%20Dat%20Beat.mp3",
+        "duration": "00:36"
     },
     {
         "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
-    },
-    {
-        "id": "0008",
-        "name": "",
-        "url": "",
+        "name": "One Call Away",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/One%20Call%20Away.mp3",
         "duration": "00:37"
     },
     {
+        "id": "0007",
+        "name": "Really Really",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/Really%20Really.mp3",
+        "duration": "00:33"
+    },
+    {
+        "id": "0008",
+        "name": "thug life ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/thug%20life%20ringtone.mp3",
+        "duration": "00:28"
+    },
+    {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Timeless",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/Timeless.mp3",
+        "duration": "00:33"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
+        "name": "Watch Me (Whip Nae Nae)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Hip%20Hop/Watch%20Me%20(Whip%20Nae%20Nae).mp3",
         "duration": "00:20"
     }
 ]
