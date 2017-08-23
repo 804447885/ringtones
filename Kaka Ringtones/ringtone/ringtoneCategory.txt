@@ -64,7 +64,7 @@
     },
     {
         "id": "0008",
-        "name": "Contact Ringtones",
+        "name": "Contact Tones",
         "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/thumbnail.png",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/thumbnail-big.png",
         "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Contact%20Ringtones/contact.txt"
