@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
-    },
-    {
-        "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
-    },
-    {
-        "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
-    },
-    {
-        "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
-    },
-    {
-        "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
-    },
-    {
-        "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
-    },
-    {
-        "id": "0008",
-        "name": "",
-        "url": "",
+        "name": "Be Alright  Ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Be%20Alright%20%20Ringtone.mp3",
         "duration": "00:37"
     },
     {
+        "id": "0002",
+        "name": "Dangerously",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Dangerously.mp3",
+        "duration": "00:43"
+    },
+    {
+        "id": "0003",
+        "name": "Do not Wanna Know",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Don't%20Wanna%20Know.mp3",
+        "duration": "00:28"
+    },
+    {
+        "id": "0004",
+        "name": "Oh Oh Oh",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Ex's%20%26amp%3B%20Oh's.mp3",
+        "duration": "00:39"
+    },
+    {
+        "id": "0005",
+        "name": "Heathens",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Heathens.mp3",
+        "duration": "00:23"
+    },
+    {
+        "id": "0006",
+        "name": "Last Text",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Last%20Text.mp3",
+        "duration": "00:25"
+    },
+    {
+        "id": "0007",
+        "name": "Love My Life",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Love%20My%20Life.mp3",
+        "duration": "00:34"
+    },
+    {
+        "id": "0008",
+        "name": "Stand By You",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Stand%20By%20You.mp3",
+        "duration": "00:32"
+    },
+    {
         "id": "0009",
-        "name": "",
-        "url": "",
+        "name": "We Do not Talk Anymore",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/We%20Don't%20Talk%20Anymore.mp3",
         "duration": "00:38"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "Wish That You Were Here",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Pop/Wish%20That%20You%20Were%20Here.mp3",
+        "duration": "00:42"
     }
 ]
