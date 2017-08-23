@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
-    },
-    {
-        "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
-    },
-    {
-        "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
-    },
-    {
-        "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
-    },
-    {
-        "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
-    },
-    {
-        "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
-    },
-    {
-        "id": "0008",
-        "name": "",
-        "url": "",
+        "name": "Auditions",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Auditions.mp3",
         "duration": "00:37"
     },
     {
+        "id": "0002",
+        "name": "Bros 2 Overworld Theme",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Bros%202%20Overworld%20Theme.mp3",
+        "duration": "00:33"
+    },
+    {
+        "id": "0003",
+        "name": "City Of Stars",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/City%20Of%20Stars.mp3",
+        "duration": "00:39"
+    },
+    {
+        "id": "0004",
+        "name": "Hair Up",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Hair%20Up.mp3",
+        "duration": "00:42"
+    },
+    {
+        "id": "0005",
+        "name": "New iphone 6-Remix",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/New%20iphone%206-Remix.mp3",
+        "duration": "00:29"
+    },
+    {
+        "id": "0006",
+        "name": "Runnin",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Runnin'.mp3",
+        "duration": "00:31"
+    },
+    {
+        "id": "0007",
+        "name": "Shake It Off",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Shake%20It%20Off.mp3",
+        "duration": "00:36"
+    },
+    {
+        "id": "0008",
+        "name": "submarine sonar",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/submarine%20sonar.mp3",
+        "duration": "00:26"
+    },
+    {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Temple Of Light",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Temple%20Of%20Light.mp3",
+        "duration": "00:31"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "Theme Mashup",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sound%20Effects/Theme%20Mashup.mp3",
+        "duration": "00:24"
     }
 ]

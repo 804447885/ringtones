@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "Fugue En Rires",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/Fugue%20En%20Rires.mp3",
+        "duration": "00:38"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "i love u",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/i%20love%20u.mp3",
+        "duration": "00:15"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "message 1670",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/message%201670.mp3",
+        "duration": "00:11"
     },
     {
         "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
+        "name": "mr bean calling",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/mr%20bean%20calling.mp3",
+        "duration": "00:16"
     },
     {
         "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
+        "name": "redneck ringtone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/redneck%20ringtone.mp3",
+        "duration": "00:14"
     },
     {
         "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
+        "name": "sister is calling",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/sister%20is%20calling.mp3",
+        "duration": "00:18"
     },
     {
         "id": "0007",
-        "name": "",
-        "url": "",
-        "duration": "00:26"
+        "name": "text message tone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/text%20message%20tone.mp3",
+        "duration": "00:10"
     },
     {
         "id": "0008",
-        "name": "",
-        "url": "",
-        "duration": "00:37"
+        "name": "very funny ring tone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/very%20funny%20ring%20tone.mp3",
+        "duration": "00:14"
     },
     {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "yo phone is ringing",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/yo%20phone%20is%20ringing.mp3",
+        "duration": "00:29"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "your sister on phone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Sayings/your%20sister%20on%20phone.mp3",
+        "duration": "00:21"
     }
 ]
