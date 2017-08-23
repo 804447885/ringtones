@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "axel f",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/axel%20f.mp3",
+        "duration": "00:16"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "A-YO",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/A-YO.mp3",
+        "duration": "00:26"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Faith (Ariana Grande)",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/Faith%20(Ariana%20Grande).mp3",
+        "duration": "00:39"
     },
     {
         "id": "0004",
-        "name": "",
-        "url": "",
+        "name": "Fly Me to the Moon",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/Fly%20Me%20to%20the%20Moon.mp3",
         "duration": "00:29"
     },
     {
         "id": "0005",
-        "name": "",
-        "url": "",
-        "duration": "00:25"
+        "name": "hey ho",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/hey%20ho.mp3",
+        "duration": "00:29"
     },
     {
         "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
-    },
-    {
-        "id": "0007",
-        "name": "",
-        "url": "",
+        "name": "saxaphone",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/saxaphone.mp3",
         "duration": "00:26"
     },
     {
+        "id": "0007",
+        "name": "smooth jazz",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/smooth%20jazz.mp3",
+        "duration": "00:29"
+    },
+    {
         "id": "0008",
-        "name": "",
-        "url": "",
-        "duration": "00:37"
+        "name": "swing jazz",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/swing%20jazz.mp3",
+        "duration": "00:29"
     },
     {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Windows 8-Hindi song",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/Windows%208-Hindi%20song.mp3",
+        "duration": "00:26"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "You Know I'm No Good",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Jazz/You%20Know%20I'm%20No%20Good.mp3",
+        "duration": "00:38"
     }
 ]

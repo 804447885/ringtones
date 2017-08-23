@@ -1,62 +1,62 @@
 [
     {
         "id": "0001",
-        "name": "",
-        "url": "",
-        "duration": "00:14"
+        "name": "Baddest Girl in Town",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Baddest%20Girl%20in%20Town.mp3",
+        "duration": "00:18"
     },
     {
         "id": "0002",
-        "name": "",
-        "url": "",
-        "duration": "00:24"
+        "name": "Deja vu",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Deja%20vu.mp3",
+        "duration": "00:37"
     },
     {
         "id": "0003",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "el perdon",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/el%20perdon.mp3",
+        "duration": "00:18"
     },
     {
         "id": "0004",
-        "name": "",
-        "url": "",
-        "duration": "00:29"
-    },
-    {
-        "id": "0005",
-        "name": "",
-        "url": "",
+        "name": "Fun",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Fun.mp3",
         "duration": "00:25"
     },
     {
+        "id": "0005",
+        "name": "Ginza",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Ginza.mp3",
+        "duration": "00:38"
+    },
+    {
         "id": "0006",
-        "name": "",
-        "url": "",
-        "duration": "00:13"
+        "name": "I'm an Albatraoz",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/I'm%20an%20Albatraoz.mp3",
+        "duration": "00:14"
     },
     {
         "id": "0007",
-        "name": "",
-        "url": "",
+        "name": "lambada",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/lambada.mp3",
         "duration": "00:26"
     },
     {
         "id": "0008",
-        "name": "",
-        "url": "",
-        "duration": "00:37"
+        "name": "Maluma - Borro Cassette",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Maluma%20-%20Borro%20Cassette.mp3",
+        "duration": "00:22"
     },
     {
         "id": "0009",
-        "name": "",
-        "url": "",
-        "duration": "00:38"
+        "name": "Un Beso",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/Un%20Beso.mp3",
+        "duration": "00:28"
     },
     {
         "id": "0010",
-        "name": "",
-        "url": "",
-        "duration": "00:20"
+        "name": "zumba",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/ringtone/Latin/zumba.mp3",
+        "duration": "00:29"
     }
 ]
