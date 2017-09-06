@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id": "1",
         "name": "最热",
@@ -58,9 +58,9 @@
     {
         "id": "0007",
         "name": "趣味搞笑",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/quweigaoxiao/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/quweigaoxiao/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/quweigaoxiao/ringtonelist.txt"
     },
     {
         "id": "0008",
