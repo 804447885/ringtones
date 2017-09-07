@@ -1,0 +1,42 @@
+﻿[
+    {
+        "id": "0001",
+        "name": "低音炮 - 音效均衡器",
+        "pkgName": "org.powerfulmusiceq.equalizer",
+        "url": "http://sj.qq.com/myapp/detail.htm?apkName=org.powerfulmusiceq.equalizer",
+        "des": "一款改变音效、调节重低音的APP",
+        "imgUrl": ""
+    },
+    {
+        "id": "0002",
+        "name": "执手婚恋网",
+        "pkgName": "com.mdhlkj.lovemaker",
+        "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.lovemaker",
+        "des": "一款婚恋交友、相亲交友的APP",
+        "imgUrl": ""
+    },
+    {
+        "id": "0003",
+        "name": "电池管家",
+        "pkgName": "com.mdhlkj.batterysaver",
+        "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.batterysaver",
+        "des": "一款监控手机电池电量的省电APP",
+        "imgUrl": ""
+    },
+    {
+        "id": "0004",
+        "name": "手机杀毒卫士",
+        "pkgName": "com.mdhlkj.antivirus.four",
+        "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.antivirus.four",
+        "des": "一款手机清理、杀毒的安全类APP",
+        "imgUrl": ""
+    },
+    {
+        "id": "0005",
+        "name": "手机赚钱",
+        "pkgName": "com.ecloud.playearn",
+        "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.ecloud.playearn",
+        "des": "一款在线做任务赚取零花钱的APP",
+        "imgUrl": ""
+    }
+]
