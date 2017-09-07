@@ -5,7 +5,7 @@
         "pkgName": "org.powerfulmusiceq.equalizer",
         "url": "http://sj.qq.com/myapp/detail.htm?apkName=org.powerfulmusiceq.equalizer",
         "des": "一款改变音效、调节重低音的APP",
-        "imgUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/diyinpao.jpg"
     },
     {
         "id": "0002",
@@ -13,7 +13,7 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.lovemaker",
         "des": "一款婚恋交友、相亲交友的APP",
-        "imgUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/zhishou.png"
     },
     {
         "id": "0003",
@@ -21,7 +21,7 @@
         "pkgName": "com.mdhlkj.batterysaver",
         "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.batterysaver",
         "des": "一款监控手机电池电量的省电APP",
-        "imgUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/dianchi.png"
     },
     {
         "id": "0004",
@@ -29,7 +29,7 @@
         "pkgName": "com.mdhlkj.antivirus.four",
         "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.mdhlkj.antivirus.four",
         "des": "一款手机清理、杀毒的安全类APP",
-        "imgUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/shadu.png"
     },
     {
         "id": "0005",
@@ -37,6 +37,6 @@
         "pkgName": "com.ecloud.playearn",
         "url": "http://sj.qq.com/myapp/detail.htm?apkName=com.ecloud.playearn",
         "des": "一款在线做任务赚取零花钱的APP",
-        "imgUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/wanzhuan.png"
     }
 ]
