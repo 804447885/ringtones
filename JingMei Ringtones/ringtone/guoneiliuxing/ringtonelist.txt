@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "day by day手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/day%20by%20day.mp3",
         "duration": "00:48"
     },
     {
         "id": "0002",
         "name": "Linkin Park手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/Linkin%20Park.mp3",
         "duration": "00:30"
     },
     {
         "id": "0003",
         "name": "One Step At A Time手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/One%20Step%20At%20A%20Time.mp3",
         "duration": "00:53"
     },
     {
         "id": "0004",
         "name": "传说中的缘份手机铃",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/chuanshuozhongdeyuanfen.mp3",
         "duration": "00:24"
     },
     {
         "id": "0005",
         "name": "富贵险中求手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/fuguixianzhongqiu.mp3",
         "duration": "00:13"
     },
     {
         "id": "0006",
         "name": "从明天起手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/congmingtianqi.mp3",
         "duration": "00:19"
     },
     {
         "id": "0007",
         "name": "简单清脆来电铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/jiandanqingcui.mp3",
         "duration": "00:29"
     },
     {
         "id": "0008",
         "name": "经典对白手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/jingdianduibai.mp3",
         "duration": "00:22"
     },
     {
         "id": "0009",
         "name": "某某裸婚吧手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/moumouluohunba.mp3",
         "duration": "00:26"
     },
     {
         "id": "0010",
         "name": "苹果来电铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/pingguolaidian.mp3",
         "duration": "00:12"
     },
     {
         "id": "0011",
         "name": "我叫欧阳锋搞笑铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/wojiaoouyangfeng.mp3",
         "duration": "01:11"
     },
     {
         "id": "0012",
         "name": "震撼小喇叭铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/zhenhanxiaolaba.mp3",
         "duration": "00:29"
     }
 ]

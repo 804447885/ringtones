@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "iPhone铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/iPhone.mp3",
         "duration": "00:12"
     },
     {
         "id": "0002",
         "name": "刚好遇见你",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/ganghaoyujianni.mp3",
         "duration": "00:26"
     },
     {
         "id": "0003",
         "name": "金箍棒手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/jingubang.mp3",
         "duration": "01:08"
     },
     {
         "id": "0004",
         "name": "老式电话铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/laoshidianhua.mp3",
         "duration": "00:03"
     },
     {
         "id": "0005",
         "name": "闹够了没有手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/naogoulemeiyou.mp3",
         "duration": "00:32"
     },
     {
         "id": "0006",
         "name": "朋友的酒经典手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/pengyoudejiu.mp3",
         "duration": "00:47"
     },
     {
         "id": "0007",
         "name": "网上最火的手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/wangshangzuihuo.mp3",
         "duration": "00:49"
     },
     {
         "id": "0008",
         "name": "为爱痴狂手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/weiaichikuang.mp3",
         "duration": "00:55"
     },
     {
         "id": "0009",
         "name": "我是一个美女手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/woshiyigemeinv.mp3",
         "duration": "00:44"
     },
     {
         "id": "0010",
         "name": "小黄人狂笑音效",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/xiaohuangrenkuangxiao.mp3",
         "duration": "00:13"
     },
     {
         "id": "0011",
         "name": "一万个舍不得手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/yiwangeshebude.mp3",
         "duration": "00:55"
     },
     {
         "id": "0012",
         "name": "愿得一人心手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/yuandeyirenxin.mp3",
         "duration": "00:45"
     }
 ]

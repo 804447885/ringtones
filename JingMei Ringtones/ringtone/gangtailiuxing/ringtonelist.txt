@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "Upside Down手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/Upside%20Down.mp3",
         "duration": "00:40"
     },
     {
         "id": "0002",
         "name": "爱在浪漫中舞蹈手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/aizailangmanzhong.mp3",
         "duration": "00:23"
     },
     {
         "id": "0003",
         "name": "不完整的旋律唯美铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/buwanzhengdexuanlv.mp3",
         "duration": "00:29"
     },
     {
         "id": "0004",
         "name": "海豚湾恋人唯美声铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/haitunwanlianren.mp3",
         "duration": "00:29"
     },
     {
         "id": "0005",
         "name": "活埋手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/huomai.mp3",
         "duration": "00:34"
     },
     {
         "id": "0006",
         "name": "今夜你会不会来唯美铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/jinyenihuibuhuilai.mp3",
         "duration": "00:32"
     },
     {
         "id": "0007",
         "name": "离别的车站手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/libiedechezhan.mp3",
         "duration": "01:38"
     },
     {
         "id": "0008",
         "name": "亲爱的树洞手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/qinaideshudong.mp3",
         "duration": "00:36"
     },
     {
         "id": "0009",
         "name": "盛世安魂曲手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/shengshianhunqu.mp3",
         "duration": "00:55"
     },
     {
         "id": "0010",
         "name": "索爱经典铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/suoai.mp3",
         "duration": "00:13"
     },
     {
         "id": "0011",
         "name": "闲人也很忙手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/xianrenyehenmang.mp3",
         "duration": "00:35"
     },
     {
         "id": "0012",
         "name": "雨过天阴手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/yuguotianyin.mp3",
         "duration": "00:31"
     }
 ]

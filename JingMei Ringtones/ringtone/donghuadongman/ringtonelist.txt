@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "WOW连载动画片经典台词铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/WOWlianzaidonghua.mp3",
         "duration": "00:03"
     },
     {
         "id": "0002",
         "name": "八仙过海主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/baxianguohai.mp3",
         "duration": "00:30"
     },
     {
         "id": "0003",
         "name": "巴巴爸爸主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/babababa.mp3",
         "duration": "01:01"
     },
     {
         "id": "0004",
         "name": "动画城主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/donghuacheng.mp3",
         "duration": "00:20"
     },
     {
         "id": "0005",
         "name": "海贼王高潮曲手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/haizeiwanggaochao.mp3",
         "duration": "00:52"
     },
     {
         "id": "0006",
         "name": "花之少女动漫手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/huazhishaonv.mp3",
         "duration": "01:31"
     },
     {
         "id": "0007",
         "name": "蜡笔小新版猪之歌铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/labixiaoxin.mp3",
         "duration": "00:49"
     },
     {
         "id": "0008",
         "name": "你的名字主题曲",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/nidemingzi.mp3",
         "duration": "00:26"
     },
     {
         "id": "0009",
         "name": "十二罗汉的中偷蛋的插曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/shierluohan.mp3",
         "duration": "00:32"
     },
     {
         "id": "0010",
         "name": "西游记动画片主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/xiyoujidonghuapian.mp3",
         "duration": "00:37"
     },
     {
         "id": "0011",
         "name": "樱桃小丸子经典搞笑主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/yingtaoxiaowanzi.mp3",
         "duration": "01:07"
     },
     {
         "id": "0012",
         "name": "月光传说的前奏铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/yueguangchuanshuo.mp3",
         "duration": "0013"
     }
 ]

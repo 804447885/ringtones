@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "Lonely金孝琳手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/Lonelyjinxiaolin.mp3",
         "duration": "00:37"
     },
     {
         "id": "0002",
         "name": "不一样",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/buyiyang.mp3",
         "duration": "00:37"
     },
     {
         "id": "0003",
         "name": "成长痛2手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/chengzhangtong2.mp3",
         "duration": "00:44"
     },
     {
         "id": "0004",
         "name": "鬼怪(Hobgoblin)",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/guiguai.mp3",
         "duration": "00:23"
     },
     {
         "id": "0005",
         "name": "韩剧玻璃鞋插曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/hanjubolixie.mp3",
         "duration": "01:17"
     },
     {
         "id": "0006",
         "name": "韩式清晨小清新闹钟铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/hanshiqingchen.mp3",
         "duration": "00:29"
     },
     {
         "id": "0007",
         "name": "可爱韩国短信铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/keaihanguo.mp3",
         "duration": "00:05"
     },
     {
         "id": "0008",
         "name": "千颂依求婚跳的音乐铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/qiansongyi.mp3",
         "duration": "00:29"
     },
     {
         "id": "0009",
         "name": "青色十色",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/qingseshise.mp3",
         "duration": "00:27"
     },
     {
         "id": "0010",
         "name": "说吧",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/shuoba.mp3",
         "duration": "00:30"
     },
     {
         "id": "0011",
         "name": "太阳的后裔主题曲",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/taiyangdehouyi.mp3",
         "duration": "00:27"
     },
     {
         "id": "0012",
         "name": "我不一样",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/wobuyiyang.mp3",
         "duration": "00:23"
     }
 ]

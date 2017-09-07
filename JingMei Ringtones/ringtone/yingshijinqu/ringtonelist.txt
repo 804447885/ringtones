@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "悲情面具手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/beiqingmianju.mp3",
         "duration": "00:37"
     },
     {
         "id": "0002",
         "name": "城市之间主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/chengshizhijian.mp3",
         "duration": "00:34"
     },
     {
         "id": "0003",
         "name": "第二十二条婚规铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/diershiertiao.mp3",
         "duration": "01:29"
     },
     {
         "id": "0004",
         "name": "肩上蜻蜓手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/jianshangqingting.mp3",
         "duration": "00:54"
     },
     {
         "id": "0005",
         "name": "老严有女不愁嫁片头",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/laoyanyounv.mp3",
         "duration": "00:43"
     },
     {
         "id": "0006",
         "name": "龙门镖局片尾曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/longmenbiaoju.mp3",
         "duration": "00:34"
     },
     {
         "id": "0007",
         "name": "痞子英雄主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/piziyingxiong.mp3",
         "duration": "00:39"
     },
     {
         "id": "0008",
         "name": "少年四大名捕主题曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/shaoniansidamingbu.mp3",
         "duration": "00:37"
     },
     {
         "id": "0009",
         "name": "天下足球的尾曲铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/tianxiazuqiu.mp3",
         "duration": "00:34"
     },
     {
         "id": "0010",
         "name": "我们好像在哪见过",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/womenhaoxiang.mp3",
         "duration": "00:50"
     },
     {
         "id": "0011",
         "name": "有你的地方是天堂手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/younidedifang.mp3",
         "duration": "00:32"
     },
     {
         "id": "0012",
         "name": "追鱼传奇主题曲追铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/zhuiyuchuanqi.mp3",
         "duration": "00:35"
     }
 ]

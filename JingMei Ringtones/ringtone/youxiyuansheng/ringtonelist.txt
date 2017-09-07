@@ -2,73 +2,73 @@
     {
         "id": "0001",
         "name": "Beyond hope卓越之剑铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/Beyond%20hope.mp3",
         "duration": "01:13"
     },
     {
         "id": "0002",
         "name": "BOSS通杀手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/BOSStongsha.mp3",
         "duration": "01:08"
     },
     {
         "id": "0003",
         "name": "run in crowd手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/run%20in%20crowd.mp3",
         "duration": "01:36"
     },
     {
         "id": "0004",
         "name": "愤怒的小鸟手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/fennudexiaoniao.mp3",
         "duration": "01:08"
     },
     {
         "id": "0005",
         "name": "怪物猎人短信铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/guaiwulieren.mp3",
         "duration": "00:12"
     },
     {
         "id": "0006",
         "name": "豪血寺音頭手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/haoxuesi.mp3",
         "duration": "00:57"
     },
     {
         "id": "0007",
         "name": "泡泡龙短信铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/paopaolong.mp3",
         "duration": "00:02"
     },
     {
         "id": "0008",
         "name": "仙剑1初始场景李大娘客栈铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/xianjian.mp3",
         "duration": "00:34"
     },
     {
         "id": "0009",
         "name": "消除的背景音乐铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/xiaochudebeijingyin.mp3",
         "duration": "00:04"
     },
     {
         "id": "0010",
         "name": "英雄联盟中我爱提莫铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/yingxionglianmeng.mp3",
         "duration": "00:40"
     },
     {
         "id": "0011",
         "name": "英雄杀集汇手机铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/yingxiongshajihui.mp3",
         "duration": "00:08"
     },
     {
         "id": "0012",
         "name": "植物大战僵尸短信铃声",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/zhiwudazhan.mp3",
         "duration": "00:59"
     }
 ]
