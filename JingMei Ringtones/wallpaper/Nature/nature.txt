@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Armenia Yerevan",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Armenia%20Yerevan-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Armenia%20Yerevan.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Bridges",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Bridges-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Bridges.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Colorado Desert",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Colorado%20Desert-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Colorado%20Desert.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Emerald Moraine Lake",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Emerald%20Moraine%20Lake-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Emerald%20Moraine%20Lake.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Mountains Snow",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Mountains%20Snow-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Mountains%20Snow.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Purple Symphony",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Purple%20Symphony-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Purple%20Symphony.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "Summer Sun Yellow",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Summer%20Sun%20Yellow-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Summer%20Sun%20Yellow.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Welcome Spring",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Welcome%20Spring-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Nature/Welcome%20Spring.jpg"
+    }
+]

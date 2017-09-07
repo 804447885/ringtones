@@ -1,0 +1,50 @@
+[
+    {
+        "id": "0001",
+        "name": "Broadway Light",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Broadway%20Light-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Broadway%20Light.jpg"
+    },
+    {
+        "id": "0002",
+        "name": "Broadway",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Broadway-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Broadway.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "Golden Gate Bridge Coast",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Golden%20Gate%20Bridge%20Coast-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Golden%20Gate%20Bridge%20Coast.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "Hong Kong",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Hong%20Kong-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Hong%20Kong.jpg"
+    },
+    {
+        "id": "0005",
+        "name": "Japan",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Japan-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Japan.jpg"
+    },
+    {
+        "id": "0006",
+        "name": "Paris Architecture Cityscapes",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Paris%20Architecture%20Cityscapes-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Paris%20Architecture%20Cityscapes.jpg"
+    },
+    {
+        "id": "0007",
+        "name": "The Night City",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/The%20Night%20City-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/The%20Night%20City.jpg"
+    },
+    {
+        "id": "0008",
+        "name": "Tranquility",
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Tranquility-large.jpg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/Kaka%20Ringtones/wallpaper/Places/Tranquility.jpg"
+    }
+]
