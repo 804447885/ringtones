@@ -2,58 +2,58 @@
     {
         "id": "1",
         "name": "最热",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/hot/ringtonelist.txt"
     },
     {
         "id": "2",
         "name": "最新",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/new/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/new/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/new/ringtonelist.txt"
     },
     {
         "id": "0001",
         "name": "动画动漫",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/donghuadongman/ringtonelist.txt"
     },
     {
         "id": "0002",
         "name": "港台流行",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/gangtailiuxing/ringtonelist.txt"
     },
     {
         "id": "0003",
         "name": "国内流行",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/guoneiliuxing/ringtonelist.txt"
     },
     {
         "id": "0004",
         "name": "经典老歌",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/jingdianlaoge/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/jingdianlaoge/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/jingdianlaoge/ringtonelist.txt"
     },
     {
         "id": "0005",
         "name": "乐器原声",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yueqiyuansheng/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yueqiyuansheng/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yueqiyuansheng/ringtonelist.txt"
     },
     {
         "id": "0006",
         "name": "欧美经典",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/oumeijingdian/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/oumeijingdian/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/oumeijingdian/ringtonelist.txt"
     },
     {
         "id": "0007",
@@ -65,22 +65,22 @@
     {
         "id": "0008",
         "name": "日韩劲爆",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/rihanjingbao/ringtonelist.txt"
     },
     {
         "id": "0009",
         "name": "影视金曲",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/yingshijinqu/ringtonelist.txt"
     },
     {
         "id": "0010",
         "name": "游戏原声",
-        "bgUrl": "",
-        "imgUrl": "",
-        "contentUrl": ""
+        "bgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/thumbnail.png",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/thumbnail.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/ringtone/youxiyuansheng/ringtonelist.txt"
     }
 ]
