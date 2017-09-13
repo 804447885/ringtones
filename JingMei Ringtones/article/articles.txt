@@ -20,7 +20,7 @@
         "name": "邂逅爱情",
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/L72lbSk352xZkN0_Z8jyzg",
-        "des": "精品没问之猛男诞生记",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
+        "des": "精品没问之邂逅爱情",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
     }
 ]
