@@ -5,7 +5,7 @@
         "pkgName": "org.powerfulmusiceq.equalizer",
         "url": "http://mp.weixin.qq.com/s/W0occXrZGG4nZfUln_V3MQ",
         "des": "精品美文之闪婚爱妻",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/diyinpao.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/shanhunaiqi.jpg"
     },
     {
         "id": "0002",
@@ -13,6 +13,14 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "https://mp.weixin.qq.com/s/wBYawXutY8yho5hAS_ATtg",
         "des": "精品没问之猛男诞生记",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/apps/zhishou.png"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
+    },
+    {
+        "id": "0003",
+        "name": "邂逅爱情",
+        "pkgName": "com.mdhlkj.lovemaker",
+        "url": "http://mp.weixin.qq.com/s/L72lbSk352xZkN0_Z8jyzg",
+        "des": "精品没问之猛男诞生记",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
     }
 ]
