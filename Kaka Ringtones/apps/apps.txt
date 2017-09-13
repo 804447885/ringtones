@@ -2,9 +2,49 @@
     {
         "id": "0001",
         "name": "SoundBar - Bass Booster Equalizer",
-        "pkgName":"eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer",
-        "url": "https://play.google.com/store/apps/details?id=eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer",
+        "pkgName": "eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer.castplayer",
+        "url": "https://play.google.com/store/apps/details?id=eq.volume.bass.booster.equalizer.visualizer.soundbar.musicplayer.castplayer",
         "des": "Powerful EQ Bass Booster",
         "imgUrl": "https://github.com/804447885/ringtones/raw/master/Kaka%20Ringtones/apps/soundbar.png"
+    },
+    {
+        "id": "0002",
+        "name": "Free Music Player",
+        "pkgName": "org.musicplayer.mp3player.freemusic.musicfreepmp3pro",
+        "url": "https://play.google.com/store/apps/details?id=org.musicplayer.mp3player.freemusic.musicfreepmp3pro",
+        "des": "Free Music Player",
+        "imgUrl": ""
+    },
+    {
+        "id": "0003",
+        "name": "Vampire Theme",
+        "pkgName": "com.music.skin.stylish.vampirerebornmp3pro",
+        "url": "https://play.google.com/store/apps/details?id=com.music.skin.stylish.vampirerebornmp3pro",
+        "des": "Vampire Theme For Free Music Player",
+        "imgUrl": ""
+    },
+    {
+        "id": "0004",
+        "name": "Gothic Theme",
+        "pkgName": "com.music.skin.stylish.gothicrebornmp3pro",
+        "url": "https://play.google.com/store/apps/details?id=com.music.skin.stylish.gothicrebornmp3pro",
+        "des": "Gothic Theme For Free Music Player",
+        "imgUrl": ""
+    },
+    {
+        "id": "0005",
+        "name": "Tattoo Theme",
+        "pkgName": "com.music.skin.stylish.tattoorebornmp3pro",
+        "url": "https://play.google.com/store/apps/details?id=com.music.skin.stylish.tattoorebornmp3pro",
+        "des": "Powerful EQ Bass Booster",
+        "imgUrl": ""
+    },
+    {
+        "id": "0006",
+        "name": "Neon Wolf Keyboard Theme",
+        "pkgName": "com.jb.gokeyboard.theme.hikeyboard.keyboardthemeforwolf",
+        "url": "https://play.google.com/store/apps/details?id=com.jb.gokeyboard.theme.hikeyboard.keyboardthemeforwolf",
+        "des": "Neon Wolf Keyboard Theme",
+        "imgUrl": ""
     }
 ]
