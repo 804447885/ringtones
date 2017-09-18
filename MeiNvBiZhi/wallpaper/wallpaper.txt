@@ -2,49 +2,49 @@
     {
         "id": "1",
         "name": "最热",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/HOT/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/HOT/list.txt"
     },
     {
         "id": "2",
         "name": "最新",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/NEW/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/NEW/list.txt"
     },
     {
         "id": "0001",
         "name": "欧美",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/list.txt"
     },
     {
         "id": "0002",
         "name": "性感",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/list.txt"
     },
     {
         "id": "0003",
         "name": "清纯",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qingchun/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qingchun/list.txt"
     },
     {
         "id": "0004",
-        "name": "模特",
-        "imgUrl": "",
-        "contentUrl": ""
+        "name": "萝莉",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/luoli/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/luoli/list.txt"
     },
     {
         "id": "0005",
         "name": "日韩",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/rihan/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/rihan/list.txt"
     },
     {
         "id": "0006",
         "name": "气质",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/logo.png",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/list.txt"
     }
 ]
