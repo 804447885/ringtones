@@ -32,8 +32,8 @@
     {
         "id": "0006",
         "name": "6",
-        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/6.jpg",
-        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/6.jpg"
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/6.png",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/6.png"
     },
     {
         "id": "0007",
@@ -44,8 +44,8 @@
     {
         "id": "0008",
         "name": "8",
-        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/8.jpg",
-        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/8.jpg"
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/8.jpeg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/qizhi/8.jpeg"
     },
     {
         "id": "0009",

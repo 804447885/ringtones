@@ -32,8 +32,8 @@
     {
         "id": "0006",
         "name": "6",
-        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/6.jpg",
-        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/6.jpg"
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/6.jpeg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/oumei/6.jpeg"
     },
     {
         "id": "0007",

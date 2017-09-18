@@ -26,14 +26,14 @@
     {
         "id": "0005",
         "name": "5",
-        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/5.jpg",
-        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/5.jpg"
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/5.jpeg",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/5.jpeg"
     },
     {
         "id": "0006",
         "name": "6",
-        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/6.jpg",
-        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/6.jpg"
+        "urlWide": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/6.png",
+        "urlFixed": "https://raw.githubusercontent.com/804447885/ringtones/master/MeiNvBiZhi/wallpaper/xinggan/6.png"
     },
     {
         "id": "0007",
