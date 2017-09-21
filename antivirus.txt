@@ -1,0 +1,42 @@
+PRIVACY POLICY
+
+The application Antivirus-cleaner & AppLock & Security was developed by the Kaka Studio developer team
+Last Modified: April 5, 2017
+
+Overview
+
+Your privacy is very important to us. We keep the following fundamental guidelines when operating our service (website & apps):
+We don't ask you for personal information unless we truly need it.
+We don't store sensitive personal information on our servers.
+The applications do not send us any critically important information like your login credentials; instead those are encrypted and stored locally in your device.
+Your social information displayed to other people is subjected to the restrictions and permissions that you have defined in your account in each of your social networks.
+We don't share your information with anyone except to comply with the law.
+We may use non-personal statistical information to analyze the use in our website and apps, and that's in order to improve our service; diagnose technical problems, improve UI and features, maintain security, etc.
+The Privacy Policy applies to all users of the Service, including developers, users who are also contributors of content, information, and other materials or services.
+Acceptance of Policy
+
+By accessing, browsing and/or using the services, you acknowledge that you have read understood, and agree to the Privacy Policy, including any future modifications. If you do not agree to the policy, then please cease using the services.
+Modification of Policy
+
+This Privacy Policy is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Policy. If we modify the Privacy Policy, we will post the modifications on the website. The most current version will be always located under the "Privacy Policy" page. We will also indicate the last-modified date which is also the last effective date at the top of this page. We don't send direct personal notifications to users when modifications occur. By continuing to access or use the services after we have posted a modification on the website, you are indicating that you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the services.
+Personally Identifying Information
+
+Collecting non-personally identifying information is to better understand how our visitors use its app.
+Analytics Information
+
+We use third-party analytics tools to help us measure traffic and usage trends for the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
+Location Information
+
+Our application will only access your location information when you use and will not be disclosed to third parties and others.
+Read Call Log And Read Sms
+
+Our new feature, you can synchronize the phone and watch, get your call log and text messages, you can make better use of your change program features, we promised not to provide your call log and short to any person or third party interest information.
+Business Transfers
+
+If Antivirus : Security & Lite or substantially all of its assets were acquired, or in the unlikely event that we go out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Antivirus : Security & Lite may continue to use your personal information as set forth in this policy.
+Contact Us
+
+If you have questions or concerns about our Privacy Policy, please contact us by sending an email to:zhaominghua31@gmail.com@gmail.com.
+Terms Of Use
+
+Before using any of our services, please read our Terms Of Use.
