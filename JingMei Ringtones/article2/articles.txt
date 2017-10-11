@@ -3,24 +3,32 @@
         "id": "0001",
         "name": "闪婚爱妻",
         "pkgName": "org.powerfulmusiceq.equalizer",
-        "url": "http://mp.weixin.qq.com/s/W0occXrZGG4nZfUln_V3MQ",
-        "des": "精品美文之闪婚爱妻",
+        "url": "http://mp.weixin.qq.com/s/cQjg5uE8VlV3lQ6FHQ1Ilg",
+        "des": "每个人心中都有一团火，路过的人只看到烟",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/shanhunaiqi.jpg"
     },
     {
         "id": "0002",
-        "name": "猛男诞生记",
+        "name": "二婚时代",
         "pkgName": "com.mdhlkj.lovemaker",
-        "url": "https://mp.weixin.qq.com/s/wBYawXutY8yho5hAS_ATtg",
-        "des": "精品美文之猛男诞生记",
+        "url": "http://mp.weixin.qq.com/s/FaiaRfWWfhhnVP6vWfGA6g",
+        "des": "心态好，一切都好！",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
     },
     {
         "id": "0003",
-        "name": "邂逅爱情",
+        "name": "恶魔索爱",
         "pkgName": "com.mdhlkj.lovemaker",
-        "url": "http://mp.weixin.qq.com/s/L72lbSk352xZkN0_Z8jyzg",
-        "des": "精品美文之邂逅爱情",
+        "url": "http://mp.weixin.qq.com/s/RmdEIYsAvF-teju31kRU_A",
+        "des": "一辈子太短，别明白太晚",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "总裁要生娃",
+        "pkgName": "com.mdhlkj.lovemaker",
+        "url": "http://mp.weixin.qq.com/s/nsK2By28lIBH9-Zvq4xDGA",
+        "des": "这样才是一个男人真正的承诺！",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
     }
 ]
