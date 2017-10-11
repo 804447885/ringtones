@@ -1,26 +1,34 @@
 ﻿[
     {
         "id": "0001",
-        "name": "闪婚爱妻",
+        "name": "女总裁的猛男保镖",
         "pkgName": "org.powerfulmusiceq.equalizer",
-        "url": "http://mp.weixin.qq.com/s/W0occXrZGG4nZfUln_V3MQ",
-        "des": "精品美文之闪婚爱妻",
+        "url": "http://mp.weixin.qq.com/s/XlAOj5HlFos_a8tw1fMoKw",
+        "des": "女人上床前，男人下床前，太经典了！",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/shanhunaiqi.jpg"
     },
     {
         "id": "0002",
-        "name": "猛男诞生记",
+        "name": "我老婆是冰山女总裁",
         "pkgName": "com.mdhlkj.lovemaker",
-        "url": "https://mp.weixin.qq.com/s/wBYawXutY8yho5hAS_ATtg",
-        "des": "精品美文之猛男诞生记",
+        "url": "http://mp.weixin.qq.com/s/tTXgBJWPe_ulkXTZNWpCAw",
+        "des": "女人最易让男人朝思暮想的特点，你有吗？",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
     },
     {
         "id": "0003",
-        "name": "邂逅爱情",
+        "name": "极品高手",
         "pkgName": "com.mdhlkj.lovemaker",
-        "url": "http://mp.weixin.qq.com/s/L72lbSk352xZkN0_Z8jyzg",
-        "des": "精品美文之邂逅爱情",
+        "url": "http://mp.weixin.qq.com/s/M91q3z60xxprTYYYRWPPYg",
+        "des": "人，赢在和气，死在脾气！",
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+    },
+    {
+        "id": "0004",
+        "name": "猛男诞生记",
+        "pkgName": "com.mdhlkj.lovemaker",
+        "url": "http://mp.weixin.qq.com/s/fHEQULtJcVjAADZdjduO4w",
+        "des": "人怕交错友，心怕给错人",
         "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
     }
 ]
