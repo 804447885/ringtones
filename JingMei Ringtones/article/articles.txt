@@ -5,7 +5,7 @@
         "pkgName": "org.powerfulmusiceq.equalizer",
         "url": "http://mp.weixin.qq.com/s/XlAOj5HlFos_a8tw1fMoKw",
         "des": "女人上床前，男人下床前，太经典了！",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/shanhunaiqi.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/nvzongcai.jpg"
     },
     {
         "id": "0002",
@@ -13,7 +13,7 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/tTXgBJWPe_ulkXTZNWpCAw",
         "des": "女人最易让男人朝思暮想的特点，你有吗？",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/wolaopo.jpg"
     },
     {
         "id": "0003",
@@ -21,7 +21,7 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/M91q3z60xxprTYYYRWPPYg",
         "des": "人，赢在和气，死在脾气！",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/jipingaoshou.jpg"
     },
     {
         "id": "0004",
@@ -29,6 +29,6 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/fHEQULtJcVjAADZdjduO4w",
         "des": "人怕交错友，心怕给错人",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandansheng.jpg"
     }
 ]

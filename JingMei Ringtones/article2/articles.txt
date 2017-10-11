@@ -5,7 +5,7 @@
         "pkgName": "org.powerfulmusiceq.equalizer",
         "url": "http://mp.weixin.qq.com/s/cQjg5uE8VlV3lQ6FHQ1Ilg",
         "des": "每个人心中都有一团火，路过的人只看到烟",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/shanhunaiqi.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article2/shanhunkaiqi.jpg"
     },
     {
         "id": "0002",
@@ -13,7 +13,7 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/FaiaRfWWfhhnVP6vWfGA6g",
         "des": "心态好，一切都好！",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/mengnandanshengji.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article2/erhunshidai.jpg"
     },
     {
         "id": "0003",
@@ -21,7 +21,7 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/RmdEIYsAvF-teju31kRU_A",
         "des": "一辈子太短，别明白太晚",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article2/emosuoai.jpg"
     },
     {
         "id": "0004",
@@ -29,6 +29,6 @@
         "pkgName": "com.mdhlkj.lovemaker",
         "url": "http://mp.weixin.qq.com/s/nsK2By28lIBH9-Zvq4xDGA",
         "des": "这样才是一个男人真正的承诺！",
-        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article/xiehouaiqing.jpg"
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/article2/zongcaiyaoshengwa.jpg"
     }
 ]
