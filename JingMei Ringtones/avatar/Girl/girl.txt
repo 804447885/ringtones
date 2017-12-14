@@ -2,6 +2,6 @@
     {
         "id": "0001",
         "name": "girl_001",
-        "avatar": ""
+        "avatar": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/avatar/Girl/001.jpg"
     }
 ]

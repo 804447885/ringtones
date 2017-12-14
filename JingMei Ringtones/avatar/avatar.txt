@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "女生头像",
-        "imgUrl": "",
-        "contentUrl": ""
+        "imgUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/avatar/Girl/logo.jpg",
+        "contentUrl": "https://raw.githubusercontent.com/804447885/ringtones/master/JingMei%20Ringtones/avatar/Girl/girl.txt"
     }
 ]
